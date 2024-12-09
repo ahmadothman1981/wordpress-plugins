@@ -1,0 +1,24 @@
+{
+  "name": "gutenberg-block",
+  "version": "1.0.0",
+  "description": "A custom Gutenberg block plugin",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build src/index.js src/frontend.js",
+    "start": "wp-scripts start src/index.js src/frontend.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gutenberg",
+    "block",
+    "wordpress"
+  ],
+  "author": "Ahmad Othman",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^30.6.0",
+    "react": "^18.3.1",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.3.1"
+  }
+}

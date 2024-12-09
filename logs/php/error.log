@@ -1,0 +1,760 @@
+[31-Oct-2024 07:52:10 UTC] PHP Warning:  Undefined array key "HTTP_HOST" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\functions.php on line 6298
+[01-Nov-2024 14:32:45 UTC] PHP Parse error:  Unclosed '{' on line 2 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\index.php on line 7
+[01-Nov-2024 15:15:28 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[01-Nov-2024 15:15:28 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[01-Nov-2024 15:15:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:15:42 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:16:46 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[01-Nov-2024 15:16:46 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[01-Nov-2024 15:17:03 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:17:03 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:20:10 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:20:10 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:20:12 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:20:12 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:21:36 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:21:36 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:21:37 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:21:37 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:21:38 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:21:38 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:22:08 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[01-Nov-2024 15:22:08 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[01-Nov-2024 15:22:20 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:22:21 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 7
+[01-Nov-2024 15:23:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 5
+[01-Nov-2024 15:23:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 5
+[04-Nov-2024 09:09:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php:43
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php on line 43
+[04-Nov-2024 14:10:25 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\index.php on line 4
+[06-Nov-2024 08:46:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:51:09 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 23
+[06-Nov-2024 08:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:51:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 08:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_archive_type() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:16
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 16
+[06-Nov-2024 09:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function has_excrept() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php:33
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php on line 33
+[06-Nov-2024 09:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function has_excrept() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php:33
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php on line 33
+[06-Nov-2024 18:25:31 UTC] PHP Warning:  Undefined variable $event_date in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php on line 28
+[06-Nov-2024 18:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php:28
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php on line 28
+[06-Nov-2024 18:25:51 UTC] PHP Warning:  Undefined variable $event_date in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php on line 28
+[06-Nov-2024 18:25:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php:28
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php on line 28
+[06-Nov-2024 18:51:02 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "order", expecting ")" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\front-page.php on line 21
+[11-Nov-2024 09:08:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_filed() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:25
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 25
+[11-Nov-2024 09:08:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_fieldd() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php:25
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 25
+[11-Nov-2024 09:24:09 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-event.php on line 27
+[11-Nov-2024 13:59:14 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[11-Nov-2024 14:00:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Nov-2024 03:28:23 UTC] PHP Warning:  Undefined array key "size" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[12-Nov-2024 04:41:32 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 99
+[12-Nov-2024 04:41:32 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 115
+[12-Nov-2024 04:41:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 04:42:56 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 99
+[12-Nov-2024 04:42:56 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 115
+[12-Nov-2024 04:43:50 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 99
+[12-Nov-2024 04:43:50 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 115
+[12-Nov-2024 04:43:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 04:44:24 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 99
+[12-Nov-2024 04:44:24 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 115
+[12-Nov-2024 04:44:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 04:44:50 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 99
+[12-Nov-2024 04:44:50 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 115
+[12-Nov-2024 04:48:35 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 99
+[12-Nov-2024 04:48:35 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 115
+[12-Nov-2024 04:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 04:49:03 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 99
+[12-Nov-2024 04:49:03 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 115
+[12-Nov-2024 04:50:10 UTC] PHP Warning:  Array to string conversion in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 04:56:35 UTC] PHP Warning:  Undefined array key "size" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[12-Nov-2024 08:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 08:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 08:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 08:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 5
+[12-Nov-2024 08:16:10 UTC] PHP Warning:  Undefined array key "size" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[12-Nov-2024 08:27:00 UTC] PHP Warning:  Undefined array key "size" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[12-Nov-2024 08:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 6
+[12-Nov-2024 08:30:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 6
+[12-Nov-2024 08:53:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php on line 7 and exactly 1 expected in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:2
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php(7): pageBanner()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#4 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 2
+[12-Nov-2024 08:53:56 UTC] PHP Warning:  Undefined variable $data in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php on line 7
+[12-Nov-2024 08:53:56 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 08:53:56 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 08:54:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php:7
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php on line 7
+[12-Nov-2024 08:54:35 UTC] PHP Warning:  Undefined variable $data in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php on line 7
+[12-Nov-2024 08:54:35 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php:7
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php on line 7
+[12-Nov-2024 08:56:37 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 08:57:58 UTC] PHP Warning:  Undefined array key "title" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 08:57:58 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 08:59:06 UTC] PHP Warning:  Undefined array key "title" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 09:04:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:12
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page.php(7): pageBanner(Array)
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#4 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:04:28 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:04:49 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:04:51 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:12:19 UTC] PHP Parse error:  Unclosed '{' on line 13 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 97
+[12-Nov-2024 09:12:19 UTC] PHP Parse error:  Unclosed '{' on line 13 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 97
+[12-Nov-2024 09:12:57 UTC] PHP Parse error:  Unclosed '{' on line 13 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 97
+[12-Nov-2024 09:12:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[12-Nov-2024 09:12:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[12-Nov-2024 09:14:22 UTC] PHP Parse error:  Unclosed '{' on line 17 does not match ')' in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 18
+[12-Nov-2024 09:14:22 UTC] PHP Parse error:  Unclosed '{' on line 17 does not match ')' in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 18
+[12-Nov-2024 09:14:48 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:18:19 UTC] PHP Warning:  Undefined array key "title" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 09:18:19 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 09:18:19 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:19:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 09:19:24 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 09:19:24 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:19:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 09:19:52 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 09:19:52 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:23:37 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 09:23:37 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 09:23:37 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:24:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 4
+[12-Nov-2024 09:24:15 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 8
+[12-Nov-2024 09:24:15 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 12
+[12-Nov-2024 09:28:08 UTC] PHP Parse error:  Unmatched '}' in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 61
+[12-Nov-2024 09:28:10 UTC] PHP Parse error:  Unmatched '}' in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 61
+[12-Nov-2024 09:28:10 UTC] PHP Parse error:  Unmatched '}' in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 61
+[12-Nov-2024 09:29:09 UTC] PHP Parse error:  Unmatched '}' in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 61
+[12-Nov-2024 10:29:11 UTC] PHP Warning:  Undefined array key "size" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[12-Nov-2024 10:47:56 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\archive-event.php on line 15
+[13-Nov-2024 04:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php:176
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-post-type.php(709): add_rewrite_tag('%campus%', '([^/]+)', 'campus=')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post.php(1807): WP_Post_Type->add_rewrite_rules()
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php(69): register_post_type('campus', Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-settings.php(451): include_once('C:\\Users\\Ahmed\\...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\Ahmed\\...')
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\Ahmed\\...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Ahmed\\...')
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Ahmed\\...')
+#8 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php on line 176
+[13-Nov-2024 04:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php:176
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-post-type.php(709): add_rewrite_tag('%campus%', '([^/]+)', 'campus=')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post.php(1807): WP_Post_Type->add_rewrite_rules()
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php(69): register_post_type('campus', Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-settings.php(451): include_once('C:\\Users\\Ahmed\\...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\Ahmed\\...')
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\Ahmed\\...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Ahmed\\...')
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#8 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php on line 176
+[13-Nov-2024 04:27:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php:176
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-post-type.php(709): add_rewrite_tag('%campus%', '([^/]+)', 'campus=')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post.php(1807): WP_Post_Type->add_rewrite_rules()
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php(69): register_post_type('campus', Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-settings.php(451): include_once('C:\\Users\\Ahmed\\...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\Ahmed\\...')
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\Ahmed\\...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Ahmed\\...')
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Ahmed\\...')
+#8 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php on line 176
+[13-Nov-2024 04:27:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php:176
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-post-type.php(709): add_rewrite_tag('%campus%', '([^/]+)', 'campus=')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post.php(1807): WP_Post_Type->add_rewrite_rules()
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php(69): register_post_type('campus', Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-settings.php(451): include_once('C:\\Users\\Ahmed\\...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\Ahmed\\...')
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\Ahmed\\...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Ahmed\\...')
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#8 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rewrite.php on line 176
+[13-Nov-2024 19:40:34 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:30) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:40:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[13-Nov-2024 19:40:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[13-Nov-2024 19:40:39 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:30) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:40:39 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:30) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:41:25 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:44) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:41:26 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:44) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:41:27 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:44) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:41:27 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:44) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:41:35 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:44) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:43:36 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:44) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[13-Nov-2024 19:45:37 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:44) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 108
+[14-Nov-2024 07:41:02 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:02 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:02 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 23
+[14-Nov-2024 07:41:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 23
+[14-Nov-2024 07:41:10 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:10 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 21
+[14-Nov-2024 07:41:10 UTC] PHP Warning:  Undefined variable $mapLocation in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 23
+[14-Nov-2024 07:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-campus.php on line 23
+[14-Nov-2024 08:25:51 UTC] PHP Parse error:  Unclosed '{' on line 100 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 117
+[14-Nov-2024 08:26:52 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 107
+[14-Nov-2024 09:40:36 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:39) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 92
+[14-Nov-2024 09:40:36 UTC] PHP Fatal error:  Cannot redeclare enqueue_google_maps_script() (previously declared in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:39) in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 92
+[17-Nov-2024 07:41:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "posts" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php:19
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(1292): universitySearchResult(Object(WP_REST_Request))
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#12 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 19
+[17-Nov-2024 13:47:25 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 87
+[17-Nov-2024 13:47:25 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 87
+[19-Nov-2024 08:42:11 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:42:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:44:57 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:44:57 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:45:54 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:45:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:47:11 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:47:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:47:25 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:47:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:48:20 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:48:20 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:51:44 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:51:44 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:52:52 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:52:52 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:53:05 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:55:13 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:55:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:57:03 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 08:57:03 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 101
+[19-Nov-2024 09:04:41 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\search-routes.php on line 103
+[19-Nov-2024 09:21:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_filed() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php:17
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 17
+[19-Nov-2024 09:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_filed() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php:17
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 17
+[19-Nov-2024 09:22:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_filed() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php:17
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 17
+[19-Nov-2024 09:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_filed() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php:17
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 17
+[19-Nov-2024 09:22:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_flied() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php:17
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 17
+[19-Nov-2024 09:22:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_flied() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php:17
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-program.php on line 17
+[19-Nov-2024 16:14:51 UTC] PHP Parse error:  Unclosed '{' on line 12 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\search.php on line 28
+[20-Nov-2024 15:52:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sit_url() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php:130
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): redirectSubsToFrontEnd('')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\user-edit.php(10): require_once('C:\\Users\\Ahmed\\...')
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\profile.php(18): require_once('C:\\Users\\Ahmed\\...')
+#6 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 130
+[20-Nov-2024 15:52:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[20-Nov-2024 15:52:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[20-Nov-2024 15:57:40 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 128
+[20-Nov-2024 15:58:04 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\header.php on line 46
+[20-Nov-2024 15:59:41 UTC] PHP Warning:  Undefined array key "subscriber" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 129
+[20-Nov-2024 16:00:29 UTC] PHP Warning:  Undefined array key "subscriber" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 129
+[20-Nov-2024 16:00:56 UTC] PHP Warning:  Undefined array key "subscriber" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 129
+[21-Nov-2024 08:53:41 UTC] PHP Parse error:  Unterminated comment starting line 148 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 148
+[21-Nov-2024 08:53:41 UTC] PHP Parse error:  Unterminated comment starting line 148 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 148
+[21-Nov-2024 08:53:55 UTC] PHP Parse error:  Unclosed '{' on line 147 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 156
+[21-Nov-2024 08:53:58 UTC] PHP Parse error:  Unclosed '{' on line 147 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 156
+[21-Nov-2024 08:53:58 UTC] PHP Parse error:  Unclosed '{' on line 147 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 156
+[22-Nov-2024 15:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_hte_content() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page-my-notes.php:39
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\page-my-notes.php on line 39
+[24-Nov-2024 09:20:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 151
+[24-Nov-2024 09:20:46 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 151
+[24-Nov-2024 09:21:04 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 151
+[24-Nov-2024 09:21:23 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 151
+[24-Nov-2024 09:25:05 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\functions.php on line 151
+[25-Nov-2024 09:00:29 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php:45
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#3 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 45
+[25-Nov-2024 14:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_text_fieldd() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\like-route.php:21
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(1292): createLike(Object(WP_REST_Request))
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#12 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\like-route.php on line 21
+[25-Nov-2024 14:53:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_text_fieldd() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\like-route.php:21
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(1292): createLike(Object(WP_REST_Request))
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\rest-api.php(449): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#12 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\include-files\like-route.php on line 21
+[25-Nov-2024 18:08:24 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:08:24 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:12:19 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:12:19 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:13:58 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:13:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:22:39 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:22:39 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[25-Nov-2024 18:30:20 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single-professor.php on line 49
+[28-Nov-2024 07:29:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 12 and at least 2 expected in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php(12): add_action('admin_menu')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-settings.php(526): include_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\Ahmed\\...')
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\Ahmed\\...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Ahmed\\...')
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Ahmed\\...')
+#6 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 441
+[03-Dec-2024 09:32:52 UTC] PHP Warning:  Undefined array key "justsubmitted" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 37
+[03-Dec-2024 09:33:43 UTC] PHP Warning:  Undefined array key "justsubmitted" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 37
+[03-Dec-2024 09:34:25 UTC] PHP Warning:  Undefined array key "justsubmitted" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 37
+[03-Dec-2024 09:35:24 UTC] PHP Warning:  Undefined array key "justsubmitted" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 37
+[03-Dec-2024 09:35:50 UTC] PHP Warning:  Undefined array key "justsubmitted" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 37
+[03-Dec-2024 09:42:35 UTC] PHP Warning:  Undefined property: OurWordFilterPlugin::$handleForm in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 45
+[03-Dec-2024 10:54:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function est_html__() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:53
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php(38): WordCountAndTimePlugin->createHTML('\n<p>\xC2\xA0is simply...')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): WordCountAndTimePlugin->ifWrap('\n<p>\xC2\xA0is simply...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>\xC2\xA0is simply...', Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:paragra...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single.php(17): the_content()
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ahmed\\...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#8 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 53
+[03-Dec-2024 10:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_hrml__() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:53
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php(38): WordCountAndTimePlugin->createHTML('\n<p>\xC2\xA0is simply...')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): WordCountAndTimePlugin->ifWrap('\n<p>\xC2\xA0is simply...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>\xC2\xA0is simply...', Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:paragra...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single.php(17): the_content()
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ahmed\\...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#8 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 53
+[03-Dec-2024 10:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_hrml__() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php:53
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php(38): WordCountAndTimePlugin->createHTML('\n<p>\xC2\xA0is simply...')
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): WordCountAndTimePlugin->ifWrap('\n<p>\xC2\xA0is simply...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('\n<p>\xC2\xA0is simply...', Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:paragra...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single.php(17): the_content()
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ahmed\\...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#8 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 53
+[04-Dec-2024 08:20:48 UTC] PHP Parse error:  syntax error, unexpected token "*", expecting end of file in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 2
+[04-Dec-2024 08:21:06 UTC] PHP Parse error:  syntax error, unexpected token "*", expecting end of file in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 2
+[04-Dec-2024 14:03:04 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "</p>??", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 31
+[04-Dec-2024 14:03:05 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "</p>??", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 31
+[04-Dec-2024 14:03:05 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "</p>??", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 31
+[04-Dec-2024 14:03:05 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "</p>??", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 31
+[04-Dec-2024 14:11:22 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 37
+[04-Dec-2024 14:11:22 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 37
+[04-Dec-2024 14:12:22 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 37
+[04-Dec-2024 14:12:22 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 37
+[04-Dec-2024 14:12:23 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 37
+[04-Dec-2024 14:12:23 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 37
+[05-Dec-2024 09:16:30 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:16:30 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:16:31 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:16:31 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:16:44 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:16:44 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:24:28 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:24:28 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:24:53 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:24:53 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:24:54 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:24:54 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:38:56 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:38:56 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:40:01 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:40:01 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:05 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:05 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:05 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:05 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:50 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:50 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:50 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:46:50 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:47:26 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:47:26 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:47:26 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:47:26 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:48:27 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 09:48:27 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:07:46 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:07:46 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:07:46 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:07:46 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:08:44 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:08:44 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:08:44 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:08:44 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:10:03 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:10:03 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:10:03 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:10:03 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:11:09 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:11:09 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:11:09 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:11:09 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:12:07 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:12:07 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:12:07 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:12:07 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:13:08 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:13:08 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:28 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:28 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:29 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:29 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:29 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:29 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:32 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:27:32 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:30:32 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:30:32 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:31:33 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:31:33 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:39:49 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:39:49 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:39:49 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:39:49 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:39:49 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 11:39:49 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:18:42 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:18:42 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:20:19 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:20:19 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:20:26 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:20:26 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:23:23 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:23:23 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:26:45 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:26:45 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:26:54 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:26:54 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:27:15 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:27:15 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:28:15 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:28:15 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:51 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:51 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:51 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:51 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:56 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:56 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:56 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:30:56 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:31:57 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:31:57 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:32:29 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:32:29 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:32:29 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:32:29 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:33:29 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:33:29 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:52:43 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:52:43 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 36
+[05-Dec-2024 12:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugindir_url() in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php:34
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-block.php(537): GutenbergBlock->theHTML(Array, '', Object(WP_Block))
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\blocks.php(2190): WP_Block->render()
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\blocks.php(2242): render_block(Array)
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(324): do_blocks('<!-- wp:paragra...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('<!-- wp:paragra...', Array)
+#5 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\post-template.php(256): apply_filters('the_content', '<!-- wp:paragra...')
+#6 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\themes\fiction-university\single.php(17): the_content()
+#7 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Ahmed\\...')
+#8 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Ahmed\\...')
+#9 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#10 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 34
+[05-Dec-2024 12:58:54 UTC] PHP Warning:  Undefined array key "skyColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 38
+[05-Dec-2024 12:58:54 UTC] PHP Warning:  Undefined array key "grassColor" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\Gutenberg-block\index.php on line 38
+[08-Dec-2024 10:37:55 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 36
+[08-Dec-2024 10:37:55 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 36
+[08-Dec-2024 10:44:24 UTC] PHP Warning:  require_once(C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor/include.generateProfessorHTML.php): Failed to open stream: No such file or directory in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 12
+[08-Dec-2024 10:44:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor/include.generateProfessorHTML.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php:12
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-settings.php(526): include_once()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-config.php(111): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\Ahmed\\...')
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Ahmed\\...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#5 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 12
+[08-Dec-2024 10:44:24 UTC] PHP Warning:  require_once(C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor/include.generateProfessorHTML.php): Failed to open stream: No such file or directory in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 12
+[08-Dec-2024 10:44:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor/include.generateProfessorHTML.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php:12
+Stack trace:
+#0 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-settings.php(526): include_once()
+#1 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-config.php(111): require_once('C:\\Users\\Ahmed\\...')
+#2 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\Ahmed\\...')
+#3 C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Ahmed\\...')
+#4 C:\Users\Ahmed\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Ahmed\\...')
+#5 {main}
+  thrown in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 12
+[08-Dec-2024 10:44:44 UTC] PHP Parse error:  syntax error, unexpected identifier "generateProfessorHTML" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\include\generateProfessorHTML.php on line 3
+[08-Dec-2024 10:44:44 UTC] PHP Parse error:  syntax error, unexpected identifier "generateProfessorHTML" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\include\generateProfessorHTML.php on line 3
+[08-Dec-2024 10:45:29 UTC] PHP Parse error:  syntax error, unexpected identifier "generateProfessorHTML" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\include\generateProfessorHTML.php on line 3
+[08-Dec-2024 10:45:29 UTC] PHP Parse error:  syntax error, unexpected identifier "generateProfessorHTML" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\include\generateProfessorHTML.php on line 3
+[08-Dec-2024 10:45:46 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\include\generateProfessorHTML.php on line 6
+[08-Dec-2024 10:45:46 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\include\generateProfessorHTML.php on line 6
+[09-Dec-2024 09:03:54 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 54
+[09-Dec-2024 09:04:35 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 54
+[09-Dec-2024 09:49:44 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[09-Dec-2024 14:02:17 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 70
+[09-Dec-2024 14:07:54 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 72
+[09-Dec-2024 14:09:31 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 72
+[09-Dec-2024 14:11:24 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 72
+[09-Dec-2024 14:12:26 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 72
+[09-Dec-2024 14:18:38 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 71
+[09-Dec-2024 14:19:40 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 71
+[09-Dec-2024 14:20:03 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 71
+[09-Dec-2024 14:20:36 UTC] PHP Warning:  Undefined array key "profId" in C:\Users\Ahmed\Local Sites\fictional-university\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 71
