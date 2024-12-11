@@ -102,7 +102,7 @@ add_action('pre_get_posts', 'university_adjust_queries');
 function enqueue_google_maps_script() {
     wp_enqueue_script(
         'google-maps-api',
-        'https://maps.googleapis.com/maps/api/js?key=//////',
+        'https://maps.googleapis.com/maps/api/js?key=AIzaSyAKd_tQGSTrogI9U7vpLC4WydYnAyk3b-k',
         array(),
         null,
         true

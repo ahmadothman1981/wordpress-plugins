@@ -79,7 +79,7 @@ function loadGoogleMapsAPI(callback) {
 
   if (!existingScript) {
     const script = document.createElement('script')
-    script.src = 'https://maps.googleapis.com/maps/api/????'
+    script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyAKd_tQGSTrogI9U7vpLC4WydYnAyk3b-k&callback=initMap'
     script.id = 'googleMaps'
     script.async = true
     script.defer = true
