@@ -11,8 +11,11 @@ class GetPets
     $this->args = $this->getArgs();
     $this->placeholders = $this->createPlaceHolders();
     $query = "SELECT * FROM $tablename ";
+    $countQuery = "SELECT COUNT(*) FROM $tablename ";
     $query .= $this->createWhereText();
+    $countQuery .= $this->createWhereText();
     $query .= " LIMIT 100";
+    $this->count = $wpdb->get_var($wpdb->prepare($countQuery,$this->placeholders));
     $this->pets = $wpdb->get_results($wpdb->prepare($query,$this->placeholders));
 
 	}

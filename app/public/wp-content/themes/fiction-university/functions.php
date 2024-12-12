@@ -102,7 +102,7 @@ add_action('pre_get_posts', 'university_adjust_queries');
 function enqueue_google_maps_script() {
     wp_enqueue_script(
         'google-maps-api',
-        'https://maps.googleapis.com/maps/api/js?key=AIzaSyAKd_tQGSTrogI9U7vpLC4WydYnAyk3b-k',
+        'https://maps.googleapis.com/maps/api/js?key=//google api key here//',
         array(),
         null,
         true
@@ -120,7 +120,7 @@ add_filter('script_loader_tag', 'add_async_defer_attributes', 10, 2);
 
 // Google Maps API Key for ACF
 function universityMapKey($api) {
-    $api['key'] = 'AIzaSyAKd_tQGSTrogI9U7vpLC4WydYnAyk3b-k';
+    $api['key'] = '//google api key here';
     return $api;
 }
 add_filter('acf/fields/google_map/api', 'universityMapKey');
